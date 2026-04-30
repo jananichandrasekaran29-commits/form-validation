@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(123, 192, 192);
+}
+.container{
+    width: 300px;
+    margin: 500px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+}
+.form-group{
+    margin-bottom: 15px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(213, 213, 223);
+    color: white;
+    border: none;
+}
+button{
+    width: 100%;
+    padding: 5%;
+    background-color: rgb(61, 62, 149);
+    color: white;
+    border: none;
+}
+.error{
+    color: red;
+    font-size: 15px;
+}
